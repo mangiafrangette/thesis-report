@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! My name is Francesca Mangialardo and I am a MA student in Digital Humanities and Digital Knowledge at the University of Bologna, where I also earned a previous BA degree in Humanities with a thesis on computational linguistics.
+Open minded and curious learner, I am studying to support the digital transformation of the cultural sector and handle the life cycle management of cultural objects.
+I am also looking forward to improve the quality and the impact of language education in the society through technology and digital tools.
+My thoughts and projects are driven by passion and dedication, and I am always trying to bring value to the people around me. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
