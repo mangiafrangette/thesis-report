@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Setting up the work"
-date:   2020-08-29 18:14:05 +0200
+title:  "Exploring tools"
+date:   2020-09-06 
 categories: jekyll update
 ---
 During this week I explored some tools that might be useful for my work. 
