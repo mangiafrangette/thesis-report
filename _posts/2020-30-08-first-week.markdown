@@ -9,4 +9,6 @@ In this first week I identified the research questions, methodology and data nec
 # Activites:
 - Creation of a <a href="https://mangiafrangette.github.io/thesis-report/" target="_blank">Github page</a> to host my weekly report.   
 - Creation of a <a href="https://www.protocols.io/view/a-methodology-for-extracting-and-exploring-researc-bkc5ksy6" target="_blank">protocol</a>. The protocol is not complete yet, but contains the most relevant contents to discuss with my supervisor and start the work. 
- 
+
+# Consulted web pages:
+- <a href="https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a" target="_blank">How to create github pages with Jekyll</a>
