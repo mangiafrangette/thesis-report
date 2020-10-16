@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What's GraphQL?"
+title:  "Having fun with Apollo"
 date:   2020-10-16 
 categories: jekyll update
 ---
