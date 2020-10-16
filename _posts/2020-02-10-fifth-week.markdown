@@ -13,7 +13,7 @@ In the previous week I clarified with my supervisor what we intend with *researc
   
 
 # Questions
-- Why do I need <a href="https://graphql.org/learn/" target="_blank">qraphql</a>?
+- Why do I need <a href="https://graphql.org/learn/" target="_blank">GraphQL</a>?
 
 # To do
 - Read <a href="https://i4oa.org/#openabstracts" target="_blank"> Initiative 4 Open Abstracts</a>
