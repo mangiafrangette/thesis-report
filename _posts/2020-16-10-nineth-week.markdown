@@ -18,6 +18,9 @@ DSH must have blocked me, help
 # TBD
 - ADHO conference proceedings
 - Affiliations
+- Format dates
+- Decide what to do with Jahrbuch für Computerphilologie
+- Scrape DSH 
 
 
 
