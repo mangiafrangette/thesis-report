@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Affiliations are the words"
+title:  "Affiliations"
 date:   2020-11-04 
 categories: jekyll update
 ---
@@ -8,7 +8,7 @@ Getting affiliation data is quite hard. Sometimes it looks like researchers are 
 Three journals still need a manual *scraping* for a total of 370 articles. I plan to do this in two days if my eyes can take the effort. 
 
 # Issues
-DSH still blocks me, help - The return
+Cannot get data from DSH
 
 # TBD
 - ADHO conference proceedings
